@@ -1,0 +1,13 @@
+body {
+	background-color: #DCDCDC;
+	margin: 0px;
+}
+#zdjencie {
+	width:150px;
+	line-height:0px;
+	text-align:center;
+		margin:0px auto;
+}
+#zdjencie img:hover {
+	border:3px solid orange;
+}

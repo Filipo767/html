@@ -1,0 +1,70 @@
+body {
+	background-color: #DCDCDC;
+	margin:0px;
+}
+
+#calosc {
+	width: 900px;	/* szerokosc */
+	height: 0px auto;	/* wysokosc */
+	margin: 0px auto;
+}
+
+
+
+#przykladowy_blok {
+	width: 900px;
+	line-height: 200px; 
+	background-color: #383D8B;
+	color: white;
+	font-size:50px;
+	text-align: center;
+	
+}
+#przykladowy_blok1 {
+	width: 650px;
+	font-size:30px; /* wiecej nie da rady */
+	text-align: center;
+	height: 100px; 
+	color: red;
+}
+#przykladowy_blok2 {
+	width: 650px;
+	float: left;
+	height: 600px; 
+	background-color: #CCDCDC;
+	color: #000080;
+	padding: 20px;
+	box-sizing: border-box;
+	font-size: 25px;
+} 
+#przykladowy_blok3 {
+	width: 250px;
+	height: 600px; 
+	background-color: #608090;
+	text-align: center;
+	font-size:30px;
+	padding: 20px;
+	float: left;
+	box-sizing: border-box;
+	color: white;
+}
+#przykladowy_blok4 {
+	width: 900px;
+	line-height: 100px; 
+	background-color: #383D8B;
+	font-size:20px;
+	clear: both;
+	color: white;
+	box-sizing: border-box;
+	padding: 20px;
+	text-align: center;
+	
+}
+a:link {
+    color: black;
+	text-decoration: none;
+}
+a:link:hover {
+    color: orange;
+	text-decoration: underline;
+}
